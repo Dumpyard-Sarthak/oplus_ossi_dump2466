@@ -1,0 +1,42 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=SP1A.210812.016
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX3381
+ro.product.name=RMX3381
+ro.product.device=RE58A0L1
+ro.product.first_api_level=30
+ro.build.version.release_or_codename=12
+ro.build.version.release=12
+ro.build.version.incremental=R.202207041508
+ro.build.fingerprint=realme/RMX3381/RE58A0L1:12/SP1A.210812.016/R.202207041508:user/release-keys
+ro.odm.build.fingerprint=realme/RMX3381/RE58A0L1:12/SP1A.210812.016/R.202207041508:user/release-keys
+ro.odm.build.version.incremental=R.202207041508
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3381
+ro.product.odm.device=RE58A0L1
+ro.product.odm.name=RMX3381
+ro.odm.build.date=Mon Jul  4 15:20:32 CST 2022
+ro.odm.build.date.utc=1656919232
+ro.bootimage.build.fingerprint=realme/RMX3381/RE58A0L1:12/SP1A.210812.016/R.202207041508:user/release-keys
+ro.bootimage.build.version.incremental=R.202207041508
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX3381
+ro.product.bootimage.device=RE58A0L1
+ro.product.bootimage.name=RMX3381
+ro.bootimage.build.date=Mon Jul  4 15:20:32 CST 2022
+ro.bootimage.build.date.utc=1656919232
+ro.vendor.build.fingerprint=realme/RMX3381/RE58A0L1:12/SP1A.210812.016/R.202207041508:user/release-keys
+ro.vendor.build.version.incremental=R.202207041508
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3381
+ro.product.vendor.device=RE58A0L1
+ro.product.vendor.name=RMX3381
+ro.vendor.build.date=Mon Jul  4 15:20:32 CST 2022
+ro.vendor.build.date.utc=1656919232
